@@ -10,9 +10,8 @@ Criar um aplicativo simples para conversão de moedas, permitindo que o usuário
 
 ## Tecnologias Utilizadas
 - Frontend: python
-- Backend (opcional): Node.js ou Python (para requisições de API).
-- API para taxas de câmbio: [ExchangeRate API](https://exchangerate.host/).
-
+- Backend Python
+p
 ## Cronograma de Desenvolvimento
 - **Semana 1:** Configuração do repositório e design básico da interface.
 - **Semana 2:** Implementação da lógica de conversão de moedas.
