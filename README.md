@@ -7,10 +7,9 @@ Criar um aplicativo simples para conversão de moedas, permitindo que o usuário
 - Seleção de moeda de origem e destino.
 - Entrada do valor a ser convertido.
 - Exibição do resultado da conversão.
-- Atualização automática das taxas de câmbio via API.
 
 ## Tecnologias Utilizadas
-- Frontend: HTML, CSS, JavaScript.
+- Frontend: python
 - Backend (opcional): Node.js ou Python (para requisições de API).
 - API para taxas de câmbio: [ExchangeRate API](https://exchangerate.host/).
 
